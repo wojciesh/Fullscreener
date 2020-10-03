@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("THPS_Fullscreener")]
+[assembly: AssemblyTitle("Fullscreener")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("THPS_Fullscreener")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCompany("wSh")]
+[assembly: AssemblyProduct("Fullscreener")]
+[assembly: AssemblyCopyright("Copyright © 2020 wSh")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

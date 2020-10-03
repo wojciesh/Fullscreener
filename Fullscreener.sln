@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THPS_Fullscreener", "THPS_Fullscreener\THPS_Fullscreener.csproj", "{6CFC7656-017F-4D31-923C-7C7400E20815}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fullscreener", "THPS_Fullscreener\Fullscreener.csproj", "{6CFC7656-017F-4D31-923C-7C7400E20815}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
